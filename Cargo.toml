@@ -1,0 +1,7 @@
+[package]
+name = "implicit_filtering"
+version = "0.1.0"
+authors = ["padraig"]
+edition = "2018"
+
+[dependencies]
